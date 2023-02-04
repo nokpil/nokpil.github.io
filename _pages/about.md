@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "Everything in this universe is merely a single realization of a stochastic process, not an ensemble average."
 
 profile:
   align: right
@@ -31,5 +31,5 @@ social: False  # includes social icons at the bottom of the page
    - Formulating emergence and evolution of social phenomena
    - Constructing collective intelligence with self‑organization and game‑theoretical approach
 
- ‑ via modern machine learning techniques, especially with deep neural networks.
+  ‑ via modern machine learning techniques, especially with deep neural networks.
 
