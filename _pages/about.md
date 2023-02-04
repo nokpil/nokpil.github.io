@@ -18,18 +18,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
 ---
 
-Postdoctoral research fellow in School of Computational Sciences in [KIAS][https://www.kias.re.kr/kias/schools/schoolsOvrv/overView.do?schoolsCd=C&menuNo=402054] (23.03.16~), Ph.D. in Physics at [KAIST][https://www.kaist.ac.kr/en/].
+* Postdoctoral research fellow in School of Computational Sciences in [KIAS](https://www.kias.re.kr/kias/schools/schoolsOvrv/overView.do?schoolsCd=C&menuNo=402054) (23.03.16~), Ph.D. in Physics at [KAIST](https://www.kaist.ac.kr/en/).
 
-Studying and reasearching statistical physics, network science, data science and machine learning.
+* Studying and reasearching statistical physics, network science, data science and machine learning.
 
-Interested in applying (1) a tool of ML to physics and (2) a tool of physics to every other domain.
+* Interested in applying (1) a tool of ML to physics and (2) a tool of physics to every other domain.
 
-Currently working on & interested in ‑
+* Currently working on & interested in ‑
 
-* Automatically discovering new scientific concepts
-* Substituting fundamental models in physics and network science by data‑driven ones
-* Formulating emergence and evolution of social phenomena
-* Constructing collective intelligence with self‑organization and game‑theoretical approach
+   - Automatically discovering new scientific concepts
+   - Substituting fundamental models in physics and network science by data‑driven ones
+   - Formulating emergence and evolution of social phenomena
+   - Constructing collective intelligence with self‑organization and game‑theoretical approach
 
 ‑ via modern machine learning techniques, especially with deep neural networks.
 
