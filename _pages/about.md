@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Everything in this universe is merely a single realization of a stochastic process, not an ensemble average."
+subtitle: "Postdoc @ <a href='https://www.kias.re.kr/kias/schools/schoolsOvrv/overView.do?schoolsCd=C&menuNo=402054'>KIAS</a>"
 
 profile:
   align: right
@@ -30,6 +30,7 @@ social: False  # includes social icons at the bottom of the page
    - Substituting fundamental models in physics and network science by data‑driven ones
    - Formulating emergence and evolution of social phenomena
    - Constructing collective intelligence with self‑organization and game‑theoretical approach
+
 
   ‑ via modern machine learning techniques, especially with deep neural networks.
 
