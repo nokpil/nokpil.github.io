@@ -17,7 +17,7 @@
       description:
         - Integrated master's/doctoral program
         - Supervised by Prof. <a href="http://stat.kaist.ac.kr/~hjeong/">Hawoong Jeong</a>
-        - Dissertation: "Automated Scientific Discovery from Complex Systems via Deep Learning"
+        - <i>Dissertation:</i> "Automated Scientific Discovery from Complex Systems via Deep Learning"
 
     - title: Bachelor of Science (B.S.) in Physics
       institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea
@@ -44,4 +44,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Hobbies: Video games 🎮, Sci-Fi 🤖, Board games 🎲, Puzzles 🧩, Jazz 🎺, Magic 🪄, etc.
+    - <i>Hobbies:</i> Video games 🎮, Sci-Fi 🤖, Board games 🎲, Puzzles 🧩, Jazz 🎺, Magic 🎱, etc.
