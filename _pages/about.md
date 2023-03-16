@@ -9,7 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office number (TBD)</p>
+    <p>KIAS, 7312</p>
     <p>85 Hoegiro Dongdaemun-gu,</p>
     <p>Seoul 02455, Republic of Korea.</p>
 
