@@ -4,4 +4,4 @@ date: 2023-07-01 07:59:00-0400
 inline: true
 ---
 
-:sunglasses:  Move into Santa Fe, NM and starting my postdoctoral position at SFI.
+:airplane: Move into Santa Fe, NM and starting my postdoctoral position at SFI.

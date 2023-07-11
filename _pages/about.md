@@ -9,9 +9,9 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>7312, KIAS</p>
-    <p>85 Hoegiro Dongdaemun-gu,</p>
-    <p>Seoul 02455, Republic of Korea.</p>
+    <p>7312, SFI</p>
+    <p>1399 Hyde Park Rd,</p>
+    <p>NM 87501, United States.</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
