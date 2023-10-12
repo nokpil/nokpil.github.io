@@ -27,7 +27,6 @@ social: False  # includes social icons at the bottom of the page
 * Currently working on & interested in ‑
 
    - (mainly) Formulating and modelling emergence and evolution of social phenomena
-   - Substituting fundamental models in physics and network science by data‑driven ones
    - Automatically discovering new scientific concepts
    - Constructing collective intelligence with self‑organization and game‑theoretical approach
 
